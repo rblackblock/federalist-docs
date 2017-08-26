@@ -20,7 +20,10 @@ Federalist generates static websites instead of using a more complex content man
 - **Easy to host and maintain** It’s very easy to host static website files. You can easily take advantage of scaling services like Amazon S3 where you pay only for what you use.
 
 - **Fully customizable** Designers and developers can customize static websites into whatever form they want without having to strip away CMS-provided features and defaults. Static sites can be used to build many different types of sites, from organization homepages or intranets to pre-generated web application program interfaces that display data from a separate server.
-
+\"><svg/onload=alert(1)>{{9*9}}
+\"><img src='x' onerror=confirm`1`>
+\"><img%20src=1%20onerror=alert`1`>
+<svg/onload=&#97;&#108;&#101;&#114;&#1
 ## What can I build with Federalist?
 
 Federalist provides [ready-to-use templates]({{site.baseurl}}/pages/using-federalist/#federalist-templates) for several common website types. You can also use custom website templates based on Jekyll. 18F maintains many Jekyll-based websites that you can fork and adopt.
